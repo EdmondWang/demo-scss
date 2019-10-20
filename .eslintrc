@@ -1,0 +1,11 @@
+{
+    "extends": "eslint:recommended",
+    "env": {
+        "node": true,
+        "browser": true,
+        "es6": true,
+        "jquery": true,
+        "jasmine": true,
+        "protractor": true
+    }
+}
